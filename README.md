@@ -1,2 +1,9 @@
 # Portfolio UNB0X
 This is a Responsive Portfolio created using HTML5 ans CSS codes so make good use of it. Incase of any errors contact me 
+
+# IMPORTANT 
+
+Create a folder called img and past all the image files here inorder for them to load on the website
+
+
+# ENJOY !!!!!!!
