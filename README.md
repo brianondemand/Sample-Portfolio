@@ -7,6 +7,9 @@ This is a Responsive Portfolio created using HTML5 ans CSS codes so make good us
 
 # IMPORTANT                                       
 To view how the full website looks like check out the desktop and iphone SE images  
-The profile folder contains all the files used to create this portfolio website     
+The profile folder contains all the files used to create this portfolio website 
+
+# Gallery Section
+![alt text](https://github.com/brianondemand/Portfolio/blob/main/gallery.png)
                                                                                       
 ENJOY!!
